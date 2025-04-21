@@ -1,0 +1,6 @@
+Below is a video transcript and its chapters.
+Please summarize the video, extract key points, suggest tags, and provide a short insight according to the chapters.
+Chapters:
+[Insert auto-generated chapters here]
+Transcript:
+[Insert full transcript here]
